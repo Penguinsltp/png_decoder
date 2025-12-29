@@ -1,4 +1,4 @@
-# Penguinsltp/png_decoder
+# PNG_Dcoder
 
 基于MoonBit 实现的 PNG 解码器。
 
